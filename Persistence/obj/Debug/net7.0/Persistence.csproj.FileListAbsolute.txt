@@ -1,0 +1,17 @@
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/bin/Debug/net7.0/Persistence.runtimeconfig.json
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/bin/Debug/net7.0/Persistence.dll
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/bin/Debug/net7.0/Persistence.pdb
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/bin/Debug/net7.0/Domain.dll
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/bin/Debug/net7.0/Domain.pdb
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/obj/Debug/net7.0/Persistence.dll
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/obj/Debug/net7.0/Persistence.pdb
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/obj/Debug/net7.0/Persistence.genruntimeconfig.cache
+/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Persistence/obj/Debug/net7.0/ref/Persistence.dll
