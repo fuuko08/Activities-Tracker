@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "peLFWbg3E7pl47FjJan6FyJQ+C+UavhcdPyaJPMNMWz2baPkGKfknURvGwuBjByZJQWogW4yeeN38pXM+tVP5A==",
+  "dgSpecHash": "DGGI5vq2LClf8+mYONksfqViOcStWLZ0S0YRMsl+CAKA39Q/skggsV5loZuJtatA5g28Y11tuVg5zwLhsrcYSg==",
   "success": true,
   "projectFilePath": "/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
     "/Users/funfun/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/Users/funfun/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/fluentvalidation/11.2.1/fluentvalidation.11.2.1.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/fluentvalidation.aspnetcore/11.2.2/fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.2.1/fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "/Users/funfun/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
     "/Users/funfun/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/funfun/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",

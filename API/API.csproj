@@ -26,8 +26,10 @@
 
   <ItemGroup>
     <None Remove="Extensions\" />
+    <None Remove="Middleware\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Extensions\" />
+    <Folder Include="Middleware\" />
   </ItemGroup>
 </Project>
