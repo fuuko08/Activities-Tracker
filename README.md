@@ -2,9 +2,8 @@
 
 ## Description
 
-An application to track past and future important activities. Users are allowed to create an activity with description, category, date, location, venue. After creating, the activities will be saved in the list in date created order. Users then can revisit, edit, and delete the activity. 
-
-Application uses Asp.Net Core 7 as the back-end framework, and React.js 18 as the front-end framework.
+This application is designed to track various activities and is built using Asp.Net Core as its back-end and React.js for its front-end. 
+It allows users to create, modify, and delete activities along with relevant details. Additionally, users can participate in the activities as either hosts or guests. Furthermore, the app enables users to invite their friends to participate and leave comments on the activities.
 
 ## Usage
 
@@ -14,6 +13,8 @@ Application uses Asp.Net Core 7 as the back-end framework, and React.js 18 as th
 * Typescript
 * Axios
 * MobX
+* Toastify
+* Semantic-ui
 
 ## Instruction
 
