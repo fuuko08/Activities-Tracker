@@ -1,4 +1,4 @@
-# Reactivities
+# Activities Tracker
 
 ## Description
 

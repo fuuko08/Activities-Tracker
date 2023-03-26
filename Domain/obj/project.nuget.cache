@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "p9TULV7QeP8dt25OiD2n2d6Rn4ACKe4EkbK9U1UoMFWAlmhyEE91MLj32hI0b3hYDYSeg2qqdqlzgouiVt3irg==",
+  "dgSpecHash": "JEsLWrzKDXuhcecipSiUUAMy7xV3DQGj6ozt5FvlXJyc/uylEGRMeWVI6XDVvazT8+L1tosqtru2xHBwZmW3DA==",
   "success": true,
   "projectFilePath": "/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Domain/Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/funfun/.nuget/packages/microsoft.aspnetcore.cryptography.internal/7.0.4/microsoft.aspnetcore.cryptography.internal.7.0.4.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/7.0.4/microsoft.aspnetcore.cryptography.keyderivation.7.0.4.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/7.0.4/microsoft.aspnetcore.identity.entityframeworkcore.7.0.4.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.entityframeworkcore/7.0.4/microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.4/microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.4/microsoft.entityframeworkcore.analyzers.7.0.4.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.4/microsoft.entityframeworkcore.relational.7.0.4.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.extensions.identity.core/7.0.4/microsoft.extensions.identity.core.7.0.4.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.extensions.identity.stores/7.0.4/microsoft.extensions.identity.stores.7.0.4.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.extensions.options/7.0.1/microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "/Users/funfun/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
