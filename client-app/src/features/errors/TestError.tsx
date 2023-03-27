@@ -11,7 +11,7 @@ export default function TestErrors() {
         axios.get(baseUrl + 'buggy/not-found').catch(err => console.log(err.response));
     }
 
-    function handleBadRequest() {
+    function handleBadRequest(): void {
         axios.get(baseUrl + 'buggy/bad-request').catch(err => console.log(err.response));
     }
 
@@ -19,8 +19,8 @@ export default function TestErrors() {
         axios.get(baseUrl + 'buggy/server-error').catch(err => console.log(err.response));
     }
 
-    function handleUnauthorised() {
-        axios.get(baseUrl + 'buggy/unauthorised').catch(err => console.log(err.response));
+    function handleUnauthorized() {
+        axios.get(baseUrl + 'buggy/unauthorized').catch(err => console.log(err.response));
     }
 
     function handleBadGuid() {
@@ -36,12 +36,12 @@ export default function TestErrors() {
             <Header as='h1' content='Test Error component' />
             <Segment>
                 <Button.Group widths='7'>
-                    <Button onClick={handleNotFound} content='Not Found' basic primary />
-                    <Button onClick={handleBadRequest} content='Bad Request' basic primary />
-                    <Button onClick={handleValidationError} content='Validation Error' basic primary />
-                    <Button onClick={handleServerError} content='Server Error' basic primary />
-                    <Button onClick={handleUnauthorised} content='Unauthorised' basic primary />
-                    <Button onClick={handleBadGuid} content='Bad Guid' basic primary />
+                    <Button onClick={handleNotFound} content='Not Found' basic color='violet' />
+                    <Button onClick={handleBadRequest} content='Bad Request' basic color='violet' />
+                    <Button onClick={handleValidationError} content='Validation Error' basic color='violet' />
+                    <Button onClick={handleServerError} content='Server Error' basic color='violet' />
+                    <Button onClick={handleUnauthorized} content='Unauthorized' basic color='violet' />
+                    <Button onClick={handleBadGuid} content='Bad Guid' basic color='violet' />
                 </Button.Group>
             </Segment>
             {errors && <ValidationError errors={errors} />}

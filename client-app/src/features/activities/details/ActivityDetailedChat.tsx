@@ -9,7 +9,7 @@ export default observer(function ActivityDetailedChat() {
                 textAlign='center'
                 attached='top'
                 inverted
-                color='teal'
+                color='purple'
                 style={{border: 'none'}}
             >
                 <Header>Chat about this event</Header>
@@ -50,7 +50,7 @@ export default observer(function ActivityDetailedChat() {
                             content='Add Reply'
                             labelPosition='left'
                             icon='edit'
-                            primary
+                            secondary
                         />
                     </Form>
                 </Comment.Group>

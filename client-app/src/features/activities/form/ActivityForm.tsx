@@ -56,7 +56,7 @@ export default observer (function ActivityForm() {
 
     return (
         <Segment clearing>
-            <Header content='Activity Details' sub color="teal" />
+            <Header content='Activity Details' sub color="violet" />
             <Formik 
                 validationSchema={validationSchema}
                 enableReinitialize 
@@ -74,14 +74,14 @@ export default observer (function ActivityForm() {
                             timeCaption="time"
                             dateFormat='MMMM d, yyyy h:mm aa'
                         />
-                        <Header content="Location Details" sub color="teal" />
+                        <Header content="Location Details" sub color="violet" />
                         <MyTextInput placeholder='City' name='city' />
                         <MyTextInput placeholder='Venue' name='venue' />
                         <Button 
                             disabled={isSubmitting || !dirty || isValid}
                             loading={loading} 
                             floated='right' 
-                            positive 
+                            color="purple" 
                             type='submit' 
                             content='Submit' 
                         />
