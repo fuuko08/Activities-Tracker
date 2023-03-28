@@ -15,6 +15,7 @@ It allows users to create, modify, and delete activities along with relevant det
 * MobX
 * Toastify
 * Semantic-ui
+* Cloudinary
 
 ## Instruction
 
