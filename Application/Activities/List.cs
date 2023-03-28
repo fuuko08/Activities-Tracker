@@ -28,6 +28,8 @@ namespace Application.Activities
                     .ProjectTo<ActivityDto>(_mapper.ConfigurationProvider)
                     .ToListAsync(cancellationToken);
 
+                var activitiesToReturn = _mapper.Map<List<ActivityDto>>(activities);
+
                 return Result<List<ActivityDto>>.Success(activities);
             }
         }
