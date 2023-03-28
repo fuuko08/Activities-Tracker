@@ -9,7 +9,7 @@ export default observer(function ActivityDetailedChat() {
                 textAlign='center'
                 attached='top'
                 inverted
-                color='purple'
+                color='violet'
                 style={{border: 'none'}}
             >
                 <Header>Chat about this event</Header>
