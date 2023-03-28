@@ -1,26 +1,26 @@
 ﻿<Properties StartupConfiguration="{CA0EA220-CCD9-444E-B238-333ADD6D07C8}|http">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/API/Controllers/WeatherForecastController.cs" relfile="API/Controllers/WeatherForecastController.cs" line="23" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="API/Program.cs">
-    <Files>
-      <File FileName="API/Program.cs" Line="48" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Reactivities" expanded="True">
+          <Node name="Reactivities">
             <Node name="API" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Extensions" expanded="True" />
-              <Node name="Middleware" expanded="True" />
-              <Node name="WeatherForecast.cs" selected="True" />
             </Node>
-            <Node name="Domain" expanded="True" />
-            <Node name="Persistence" expanded="True" />
+            <Node name="Application" expanded="True">
+              <Node name="Profiles" expanded="True" />
+            </Node>
+            <Node name="Domain" expanded="True">
+              <Node name="Activity.cs" selected="True" />
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Security" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

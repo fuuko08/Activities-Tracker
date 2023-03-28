@@ -1401,6 +1401,19 @@
           "bin/placeholder/Domain.dll": {}
         }
       },
+      "Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.dll": {}
+        }
+      },
       "Persistence/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -4402,6 +4415,11 @@
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
     },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
+    },
     "Persistence/1.0.0": {
       "type": "project",
       "path": "../Persistence/Persistence.csproj",
@@ -4411,6 +4429,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Application >= 1.0.0",
+      "Infrastructure >= 1.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 11.1.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 7.0.4",
       "Microsoft.AspNetCore.OpenApi >= 7.0.4",
@@ -4449,6 +4468,9 @@
           "projectReferences": {
             "/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Application/Application.csproj": {
               "projectPath": "/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Application/Application.csproj"
+            },
+            "/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/funfun/Coding Practice/Dotnet/demo/Reactivities/Infrastructure/Infrastructure.csproj"
             }
           }
         }
