@@ -1,26 +1,37 @@
 ﻿<Properties StartupConfiguration="{CA0EA220-CCD9-444E-B238-333ADD6D07C8}|http">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Application/Photos/Add.cs">
+    <Files>
+      <File FileName="Application/Interfaces/IPhotoAccessor.cs" />
+      <File FileName="API/Extensions/ApplicationServiceExtensions.cs" />
+      <File FileName="Infrastructure/Photos/PhotoAccessor.cs" />
+      <File FileName="Application/Photos/Add.cs" Line="15" Column="63" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Reactivities">
+          <Node name="Reactivities" expanded="True">
             <Node name="API" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Extensions" expanded="True" />
             </Node>
             <Node name="Application" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Photos" expanded="True">
+                <Node name="Add.cs" selected="True" />
+              </Node>
               <Node name="Profiles" expanded="True" />
             </Node>
-            <Node name="Domain" expanded="True">
-              <Node name="Activity.cs" selected="True" />
-            </Node>
+            <Node name="Domain" expanded="True" />
             <Node name="Infrastructure" expanded="True">
+              <Node name="Photos" expanded="True" />
               <Node name="Security" expanded="True" />
             </Node>
+            <Node name="Persistence" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -28,5 +39,4 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
